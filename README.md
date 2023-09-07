@@ -1,4 +1,5 @@
 # bootstrap-icons-stream-deck
+
 unofficial open source SVG icon library from Bootstrap for Stream Deck.
 
 ## Installation
@@ -15,5 +16,5 @@ unofficial open source SVG icon library from Bootstrap for Stream Deck.
 1. Clone this repository
 2. Open PowerShell and `cd` to this repository
 3. Run [`update-icons.ps1`](./update-icons.ps1)
-4. The directory `com.hope-it-works.bootstrap.sdIconPack` should now contain the updated icons and information
+4. The directory [`com.hope-it-works.bootstrap.sdIconPack`](./com.hope-it-works.bootstrap.sdIconPack/) should now contain the updated icons and information
 5. Finished! 🎉
