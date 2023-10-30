@@ -84,8 +84,4 @@ if(Test-Path -Path "twbs-icons\*"){
     Remove-Item -Path "twbs-icons\*" -Recurse
 }
 
-if(Test-Path -Path "com.hope-it-works.bootstrap.sdIconPack\icons\*"){
-    Remove-Item -Path "com.hope-it-works.bootstrap.sdIconPack\icons\*" -Recurse
-}
-
 Write-Host "Finished!"

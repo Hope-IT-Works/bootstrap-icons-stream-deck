@@ -463,10 +463,32 @@
     ]
   },
   {
+    "path": "alphabet-uppercase.svg",
+    "name": "alphabet-uppercase",
+    "tags": [
+      "alphabet",
+      "uppercase"
+    ]
+  },
+  {
+    "path": "alphabet.svg",
+    "name": "alphabet",
+    "tags": [
+      "alphabet"
+    ]
+  },
+  {
     "path": "alt.svg",
     "name": "alt",
     "tags": [
       "alt"
+    ]
+  },
+  {
+    "path": "amazon.svg",
+    "name": "amazon",
+    "tags": [
+      "amazon"
     ]
   },
   {
@@ -1121,11 +1143,29 @@
     ]
   },
   {
+    "path": "arrows-collapse-vertical.svg",
+    "name": "arrows-collapse-vertical",
+    "tags": [
+      "arrows",
+      "collapse",
+      "vertical"
+    ]
+  },
+  {
     "path": "arrows-collapse.svg",
     "name": "arrows-collapse",
     "tags": [
       "arrows",
       "collapse"
+    ]
+  },
+  {
+    "path": "arrows-expand-vertical.svg",
+    "name": "arrows-expand-vertical",
+    "tags": [
+      "arrows",
+      "expand",
+      "vertical"
     ]
   },
   {
@@ -1150,6 +1190,21 @@
     "tags": [
       "arrows",
       "move"
+    ]
+  },
+  {
+    "path": "arrows-vertical.svg",
+    "name": "arrows-vertical",
+    "tags": [
+      "arrows",
+      "vertical"
+    ]
+  },
+  {
+    "path": "arrows.svg",
+    "name": "arrows",
+    "tags": [
+      "arrows"
     ]
   },
   {
@@ -1203,6 +1258,66 @@
     "name": "back",
     "tags": [
       "back"
+    ]
+  },
+  {
+    "path": "backpack-fill.svg",
+    "name": "backpack-fill",
+    "tags": [
+      "backpack",
+      "fill"
+    ]
+  },
+  {
+    "path": "backpack.svg",
+    "name": "backpack",
+    "tags": [
+      "backpack"
+    ]
+  },
+  {
+    "path": "backpack2-fill.svg",
+    "name": "backpack2-fill",
+    "tags": [
+      "backpack2",
+      "fill"
+    ]
+  },
+  {
+    "path": "backpack2.svg",
+    "name": "backpack2",
+    "tags": [
+      "backpack2"
+    ]
+  },
+  {
+    "path": "backpack3-fill.svg",
+    "name": "backpack3-fill",
+    "tags": [
+      "backpack3",
+      "fill"
+    ]
+  },
+  {
+    "path": "backpack3.svg",
+    "name": "backpack3",
+    "tags": [
+      "backpack3"
+    ]
+  },
+  {
+    "path": "backpack4-fill.svg",
+    "name": "backpack4-fill",
+    "tags": [
+      "backpack4",
+      "fill"
+    ]
+  },
+  {
+    "path": "backpack4.svg",
+    "name": "backpack4",
+    "tags": [
+      "backpack4"
     ]
   },
   {
@@ -1574,6 +1689,21 @@
     ]
   },
   {
+    "path": "ban-fill.svg",
+    "name": "ban-fill",
+    "tags": [
+      "ban",
+      "fill"
+    ]
+  },
+  {
+    "path": "ban.svg",
+    "name": "ban",
+    "tags": [
+      "ban"
+    ]
+  },
+  {
     "path": "bandaid-fill.svg",
     "name": "bandaid-fill",
     "tags": [
@@ -1781,6 +1911,13 @@
     "name": "bicycle",
     "tags": [
       "bicycle"
+    ]
+  },
+  {
+    "path": "bing.svg",
+    "name": "bing",
+    "tags": [
+      "bing"
     ]
   },
   {
@@ -2490,6 +2627,13 @@
     ]
   },
   {
+    "path": "brilliance.svg",
+    "name": "brilliance",
+    "tags": [
+      "brilliance"
+    ]
+  },
+  {
     "path": "broadcast-pin.svg",
     "name": "broadcast-pin",
     "tags": [
@@ -2837,6 +2981,36 @@
     "tags": [
       "c",
       "square"
+    ]
+  },
+  {
+    "path": "cake-fill.svg",
+    "name": "cake-fill",
+    "tags": [
+      "cake",
+      "fill"
+    ]
+  },
+  {
+    "path": "cake.svg",
+    "name": "cake",
+    "tags": [
+      "cake"
+    ]
+  },
+  {
+    "path": "cake2-fill.svg",
+    "name": "cake2-fill",
+    "tags": [
+      "cake2",
+      "fill"
+    ]
+  },
+  {
+    "path": "cake2.svg",
+    "name": "cake2",
+    "tags": [
+      "cake2"
     ]
   },
   {
@@ -5330,6 +5504,20 @@
     ]
   },
   {
+    "path": "cookie.svg",
+    "name": "cookie",
+    "tags": [
+      "cookie"
+    ]
+  },
+  {
+    "path": "copy.svg",
+    "name": "copy",
+    "tags": [
+      "copy"
+    ]
+  },
+  {
     "path": "cpu-fill.svg",
     "name": "cpu-fill",
     "tags": [
@@ -5408,6 +5596,20 @@
     "name": "crop",
     "tags": [
       "crop"
+    ]
+  },
+  {
+    "path": "crosshair.svg",
+    "name": "crosshair",
+    "tags": [
+      "crosshair"
+    ]
+  },
+  {
+    "path": "crosshair2.svg",
+    "name": "crosshair2",
+    "tags": [
+      "crosshair2"
     ]
   },
   {
@@ -6143,6 +6345,21 @@
     ]
   },
   {
+    "path": "duffle-fill.svg",
+    "name": "duffle-fill",
+    "tags": [
+      "duffle",
+      "fill"
+    ]
+  },
+  {
+    "path": "duffle.svg",
+    "name": "duffle",
+    "tags": [
+      "duffle"
+    ]
+  },
+  {
     "path": "ear-fill.svg",
     "name": "ear-fill",
     "tags": [
@@ -6265,6 +6482,23 @@
     ]
   },
   {
+    "path": "emoji-astonished-fill.svg",
+    "name": "emoji-astonished-fill",
+    "tags": [
+      "emoji",
+      "astonished",
+      "fill"
+    ]
+  },
+  {
+    "path": "emoji-astonished.svg",
+    "name": "emoji-astonished",
+    "tags": [
+      "emoji",
+      "astonished"
+    ]
+  },
+  {
     "path": "emoji-dizzy-fill.svg",
     "name": "emoji-dizzy-fill",
     "tags": [
@@ -6313,6 +6547,40 @@
     "tags": [
       "emoji",
       "frown"
+    ]
+  },
+  {
+    "path": "emoji-grimace-fill.svg",
+    "name": "emoji-grimace-fill",
+    "tags": [
+      "emoji",
+      "grimace",
+      "fill"
+    ]
+  },
+  {
+    "path": "emoji-grimace.svg",
+    "name": "emoji-grimace",
+    "tags": [
+      "emoji",
+      "grimace"
+    ]
+  },
+  {
+    "path": "emoji-grin-fill.svg",
+    "name": "emoji-grin-fill",
+    "tags": [
+      "emoji",
+      "grin",
+      "fill"
+    ]
+  },
+  {
+    "path": "emoji-grin.svg",
+    "name": "emoji-grin",
+    "tags": [
+      "emoji",
+      "grin"
     ]
   },
   {
@@ -6441,6 +6709,40 @@
     ]
   },
   {
+    "path": "emoji-surprise-fill.svg",
+    "name": "emoji-surprise-fill",
+    "tags": [
+      "emoji",
+      "surprise",
+      "fill"
+    ]
+  },
+  {
+    "path": "emoji-surprise.svg",
+    "name": "emoji-surprise",
+    "tags": [
+      "emoji",
+      "surprise"
+    ]
+  },
+  {
+    "path": "emoji-tear-fill.svg",
+    "name": "emoji-tear-fill",
+    "tags": [
+      "emoji",
+      "tear",
+      "fill"
+    ]
+  },
+  {
+    "path": "emoji-tear.svg",
+    "name": "emoji-tear",
+    "tags": [
+      "emoji",
+      "tear"
+    ]
+  },
+  {
     "path": "emoji-wink-fill.svg",
     "name": "emoji-wink-fill",
     "tags": [
@@ -6455,6 +6757,44 @@
     "tags": [
       "emoji",
       "wink"
+    ]
+  },
+  {
+    "path": "envelope-arrow-down-fill.svg",
+    "name": "envelope-arrow-down-fill",
+    "tags": [
+      "envelope",
+      "arrow",
+      "down",
+      "fill"
+    ]
+  },
+  {
+    "path": "envelope-arrow-down.svg",
+    "name": "envelope-arrow-down",
+    "tags": [
+      "envelope",
+      "arrow",
+      "down"
+    ]
+  },
+  {
+    "path": "envelope-arrow-up-fill.svg",
+    "name": "envelope-arrow-up-fill",
+    "tags": [
+      "envelope",
+      "arrow",
+      "up",
+      "fill"
+    ]
+  },
+  {
+    "path": "envelope-arrow-up.svg",
+    "name": "envelope-arrow-up",
+    "tags": [
+      "envelope",
+      "arrow",
+      "up"
     ]
   },
   {
@@ -6866,6 +7206,13 @@
     ]
   },
   {
+    "path": "exposure.svg",
+    "name": "exposure",
+    "tags": [
+      "exposure"
+    ]
+  },
+  {
     "path": "eye-fill.svg",
     "name": "eye-fill",
     "tags": [
@@ -6978,6 +7325,20 @@
     "tags": [
       "fast",
       "forward"
+    ]
+  },
+  {
+    "path": "feather.svg",
+    "name": "feather",
+    "tags": [
+      "feather"
+    ]
+  },
+  {
+    "path": "feather2.svg",
+    "name": "feather2",
+    "tags": [
+      "feather2"
     ]
   },
   {
@@ -8641,6 +9002,36 @@
     ]
   },
   {
+    "path": "floppy-fill.svg",
+    "name": "floppy-fill",
+    "tags": [
+      "floppy",
+      "fill"
+    ]
+  },
+  {
+    "path": "floppy.svg",
+    "name": "floppy",
+    "tags": [
+      "floppy"
+    ]
+  },
+  {
+    "path": "floppy2-fill.svg",
+    "name": "floppy2-fill",
+    "tags": [
+      "floppy2",
+      "fill"
+    ]
+  },
+  {
+    "path": "floppy2.svg",
+    "name": "floppy2",
+    "tags": [
+      "floppy2"
+    ]
+  },
+  {
     "path": "flower1.svg",
     "name": "flower1",
     "tags": [
@@ -8899,6 +9290,14 @@
     ]
   },
   {
+    "path": "gender-neuter.svg",
+    "name": "gender-neuter",
+    "tags": [
+      "gender",
+      "neuter"
+    ]
+  },
+  {
     "path": "gender-trans.svg",
     "name": "gender-trans",
     "tags": [
@@ -8965,6 +9364,13 @@
     "name": "github",
     "tags": [
       "github"
+    ]
+  },
+  {
+    "path": "gitlab.svg",
+    "name": "gitlab",
+    "tags": [
+      "gitlab"
     ]
   },
   {
@@ -9530,6 +9936,20 @@
     "name": "hexagon",
     "tags": [
       "hexagon"
+    ]
+  },
+  {
+    "path": "highlighter.svg",
+    "name": "highlighter",
+    "tags": [
+      "highlighter"
+    ]
+  },
+  {
+    "path": "highlights.svg",
+    "name": "highlights",
+    "tags": [
+      "highlights"
     ]
   },
   {
@@ -10554,6 +10974,21 @@
     ]
   },
   {
+    "path": "luggage-fill.svg",
+    "name": "luggage-fill",
+    "tags": [
+      "luggage",
+      "fill"
+    ]
+  },
+  {
+    "path": "luggage.svg",
+    "name": "luggage",
+    "tags": [
+      "luggage"
+    ]
+  },
+  {
     "path": "lungs-fill.svg",
     "name": "lungs-fill",
     "tags": [
@@ -10591,10 +11026,26 @@
     ]
   },
   {
+    "path": "mailbox-flag.svg",
+    "name": "mailbox-flag",
+    "tags": [
+      "mailbox",
+      "flag"
+    ]
+  },
+  {
     "path": "mailbox.svg",
     "name": "mailbox",
     "tags": [
       "mailbox"
+    ]
+  },
+  {
+    "path": "mailbox2-flag.svg",
+    "name": "mailbox2-flag",
+    "tags": [
+      "mailbox2",
+      "flag"
     ]
   },
   {
@@ -10632,6 +11083,14 @@
     "name": "markdown",
     "tags": [
       "markdown"
+    ]
+  },
+  {
+    "path": "marker-tip.svg",
+    "name": "marker-tip",
+    "tags": [
+      "marker",
+      "tip"
     ]
   },
   {
@@ -11044,6 +11503,14 @@
     ]
   },
   {
+    "path": "noise-reduction.svg",
+    "name": "noise-reduction",
+    "tags": [
+      "noise",
+      "reduction"
+    ]
+  },
+  {
     "path": "nut-fill.svg",
     "name": "nut-fill",
     "tags": [
@@ -11063,6 +11530,21 @@
     "name": "nvidia",
     "tags": [
       "nvidia"
+    ]
+  },
+  {
+    "path": "nvme-fill.svg",
+    "name": "nvme-fill",
+    "tags": [
+      "nvme",
+      "fill"
+    ]
+  },
+  {
+    "path": "nvme.svg",
+    "name": "nvme",
+    "tags": [
+      "nvme"
     ]
   },
   {
@@ -11086,6 +11568,13 @@
     "name": "octagon",
     "tags": [
       "octagon"
+    ]
+  },
+  {
+    "path": "opencollective.svg",
+    "name": "opencollective",
+    "tags": [
+      "opencollective"
     ]
   },
   {
@@ -11210,6 +11699,21 @@
     "name": "pass",
     "tags": [
       "pass"
+    ]
+  },
+  {
+    "path": "passport-fill.svg",
+    "name": "passport-fill",
+    "tags": [
+      "passport",
+      "fill"
+    ]
+  },
+  {
+    "path": "passport.svg",
+    "name": "passport",
+    "tags": [
+      "passport"
     ]
   },
   {
@@ -11386,6 +11890,24 @@
     ]
   },
   {
+    "path": "pci-card-network.svg",
+    "name": "pci-card-network",
+    "tags": [
+      "pci",
+      "card",
+      "network"
+    ]
+  },
+  {
+    "path": "pci-card-sound.svg",
+    "name": "pci-card-sound",
+    "tags": [
+      "pci",
+      "card",
+      "sound"
+    ]
+  },
+  {
     "path": "pci-card.svg",
     "name": "pci-card",
     "tags": [
@@ -11497,6 +12019,15 @@
     "tags": [
       "person",
       "add"
+    ]
+  },
+  {
+    "path": "person-arms-up.svg",
+    "name": "person-arms-up",
+    "tags": [
+      "person",
+      "arms",
+      "up"
     ]
   },
   {
@@ -11740,6 +12271,15 @@
     ]
   },
   {
+    "path": "person-raised-hand.svg",
+    "name": "person-raised-hand",
+    "tags": [
+      "person",
+      "raised",
+      "hand"
+    ]
+  },
+  {
     "path": "person-rolodex.svg",
     "name": "person-rolodex",
     "tags": [
@@ -11761,6 +12301,23 @@
     "tags": [
       "person",
       "square"
+    ]
+  },
+  {
+    "path": "person-standing-dress.svg",
+    "name": "person-standing-dress",
+    "tags": [
+      "person",
+      "standing",
+      "dress"
+    ]
+  },
+  {
+    "path": "person-standing.svg",
+    "name": "person-standing",
+    "tags": [
+      "person",
+      "standing"
     ]
   },
   {
@@ -11810,6 +12367,22 @@
     "tags": [
       "person",
       "video3"
+    ]
+  },
+  {
+    "path": "person-walking.svg",
+    "name": "person-walking",
+    "tags": [
+      "person",
+      "walking"
+    ]
+  },
+  {
+    "path": "person-wheelchair.svg",
+    "name": "person-wheelchair",
+    "tags": [
+      "person",
+      "wheelchair"
     ]
   },
   {
@@ -12439,6 +13012,13 @@
     ]
   },
   {
+    "path": "radar.svg",
+    "name": "radar",
+    "tags": [
+      "radar"
+    ]
+  },
+  {
     "path": "radioactive.svg",
     "name": "radioactive",
     "tags": [
@@ -12895,6 +13475,44 @@
     ]
   },
   {
+    "path": "send-arrow-down-fill.svg",
+    "name": "send-arrow-down-fill",
+    "tags": [
+      "send",
+      "arrow",
+      "down",
+      "fill"
+    ]
+  },
+  {
+    "path": "send-arrow-down.svg",
+    "name": "send-arrow-down",
+    "tags": [
+      "send",
+      "arrow",
+      "down"
+    ]
+  },
+  {
+    "path": "send-arrow-up-fill.svg",
+    "name": "send-arrow-up-fill",
+    "tags": [
+      "send",
+      "arrow",
+      "up",
+      "fill"
+    ]
+  },
+  {
+    "path": "send-arrow-up.svg",
+    "name": "send-arrow-up",
+    "tags": [
+      "send",
+      "arrow",
+      "up"
+    ]
+  },
+  {
     "path": "send-check-fill.svg",
     "name": "send-check-fill",
     "tags": [
@@ -13016,6 +13634,13 @@
     "name": "server",
     "tags": [
       "server"
+    ]
+  },
+  {
+    "path": "shadows.svg",
+    "name": "shadows",
+    "tags": [
+      "shadows"
     ]
   },
   {
@@ -13640,6 +14265,23 @@
     ]
   },
   {
+    "path": "sim-slash-fill.svg",
+    "name": "sim-slash-fill",
+    "tags": [
+      "sim",
+      "slash",
+      "fill"
+    ]
+  },
+  {
+    "path": "sim-slash.svg",
+    "name": "sim-slash",
+    "tags": [
+      "sim",
+      "slash"
+    ]
+  },
+  {
     "path": "sim.svg",
     "name": "sim",
     "tags": [
@@ -14112,6 +14754,13 @@
     ]
   },
   {
+    "path": "sourceforge.svg",
+    "name": "sourceforge",
+    "tags": [
+      "sourceforge"
+    ]
+  },
+  {
     "path": "speaker-fill.svg",
     "name": "speaker-fill",
     "tags": [
@@ -14360,6 +15009,13 @@
     ]
   },
   {
+    "path": "substack.svg",
+    "name": "substack",
+    "tags": [
+      "substack"
+    ]
+  },
+  {
     "path": "subtract.svg",
     "name": "subtract",
     "tags": [
@@ -14432,6 +15088,53 @@
     "tags": [
       "suit",
       "spade"
+    ]
+  },
+  {
+    "path": "suitcase-fill.svg",
+    "name": "suitcase-fill",
+    "tags": [
+      "suitcase",
+      "fill"
+    ]
+  },
+  {
+    "path": "suitcase-lg-fill.svg",
+    "name": "suitcase-lg-fill",
+    "tags": [
+      "suitcase",
+      "lg",
+      "fill"
+    ]
+  },
+  {
+    "path": "suitcase-lg.svg",
+    "name": "suitcase-lg",
+    "tags": [
+      "suitcase",
+      "lg"
+    ]
+  },
+  {
+    "path": "suitcase.svg",
+    "name": "suitcase",
+    "tags": [
+      "suitcase"
+    ]
+  },
+  {
+    "path": "suitcase2-fill.svg",
+    "name": "suitcase2-fill",
+    "tags": [
+      "suitcase2",
+      "fill"
+    ]
+  },
+  {
+    "path": "suitcase2.svg",
+    "name": "suitcase2",
+    "tags": [
+      "suitcase2"
     ]
   },
   {
@@ -14903,6 +15606,21 @@
     ]
   },
   {
+    "path": "threads-fill.svg",
+    "name": "threads-fill",
+    "tags": [
+      "threads",
+      "fill"
+    ]
+  },
+  {
+    "path": "threads.svg",
+    "name": "threads",
+    "tags": [
+      "threads"
+    ]
+  },
+  {
     "path": "three-dots-vertical.svg",
     "name": "three-dots-vertical",
     "tags": [
@@ -15113,6 +15831,13 @@
     ]
   },
   {
+    "path": "transparency.svg",
+    "name": "transparency",
+    "tags": [
+      "transparency"
+    ]
+  },
+  {
     "path": "trash-fill.svg",
     "name": "trash-fill",
     "tags": [
@@ -15287,6 +16012,14 @@
     ]
   },
   {
+    "path": "twitter-x.svg",
+    "name": "twitter-x",
+    "tags": [
+      "twitter",
+      "x"
+    ]
+  },
+  {
     "path": "twitter.svg",
     "name": "twitter",
     "tags": [
@@ -15323,6 +16056,30 @@
     "tags": [
       "type",
       "h3"
+    ]
+  },
+  {
+    "path": "type-h4.svg",
+    "name": "type-h4",
+    "tags": [
+      "type",
+      "h4"
+    ]
+  },
+  {
+    "path": "type-h5.svg",
+    "name": "type-h5",
+    "tags": [
+      "type",
+      "h5"
+    ]
+  },
+  {
+    "path": "type-h6.svg",
+    "name": "type-h6",
+    "tags": [
+      "type",
+      "h6"
     ]
   },
   {
@@ -15631,6 +16388,13 @@
     "tags": [
       "view",
       "stacked"
+    ]
+  },
+  {
+    "path": "vignette.svg",
+    "name": "vignette",
+    "tags": [
+      "vignette"
     ]
   },
   {
