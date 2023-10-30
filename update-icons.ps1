@@ -84,4 +84,18 @@ if(Test-Path -Path "twbs-icons\*"){
     Remove-Item -Path "twbs-icons\*" -Recurse
 }
 
+if(Test-Path -Path "Release\com.hope-it-works.bootstrap.streamDeckIconPack"){
+    Remove-Item -Path "Release\com.hope-it-works.bootstrap.streamDeckIconPack"
+}
+
+if(Test-Path -Path "DistributionTool.exe"){
+    try {
+        Start-Process -NoNewWindow -FilePath DistributionTool.exe -ArgumentList "-b -i com.hope-it-works.bootstrap.sdIconPack -o Release"
+    } catch {
+        Invoke-Fatal -Message "DistributionTool failed!"
+    }
+} else {
+    Invoke-Fatal -Message "DistributionTool not found, refer to the README for more information!"
+}
+
 Write-Host "Finished!"
