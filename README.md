@@ -2,6 +2,12 @@
 
 unofficial open source SVG icon library from Bootstrap for Stream Deck.
 
+## About
+
+This repository uses the [bootstrap-icons](https://github.com/twbs/icons) repository.
+
+Thanks to the Bootstrap Authors for working on this awesome icon pack!
+
 ## Installation
 
 1. Clone this repository
