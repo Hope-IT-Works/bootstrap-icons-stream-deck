@@ -1,14 +1,24 @@
 # bootstrap-icons-stream-deck
 
-unofficial open source SVG icon library from Bootstrap for Stream Deck.
+Bootstrap's Icon Library for Stream Deck.
 
 ## About
 
+Bootstrap's Icon Library is finally on Stream Deck!
+
+Discover "**Bootstrap Icons**", an extensive collection of 2000+ icons designed with a clean and minimalist style. This versatile assortment offers a wide range of symbols, perfect for professional and creative applications. Each icon has been meticulously crafted to ensure a modern yet timeless appearance. Whether for professional applications or creative endeavors, "**Bootstrap Icons**" brings an elegant, functional design to your creative world.
+
 This repository uses the [bootstrap-icons](https://github.com/twbs/icons) repository.
 
-Thanks to the Bootstrap Authors for working on this awesome icon pack!
+Thanks to the [Bootstrap Authors](https://github.com/twbs) for working on this awesome icon pack!
 
 ## Installation
+
+### Elgato Marketplace
+
+This icon pack is now officially available on the [Elgato Marketplace](https://marketplace.elgato.com/product/bootstrap-icons-96919547-28ae-4843-81e1-ba0b9d113425) 🎉
+
+### From Source
 
 1. Clone this repository
 2. Stop the Stream Deck Application
