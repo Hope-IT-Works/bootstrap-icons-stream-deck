@@ -513,6 +513,13 @@
     ]
   },
   {
+    "path": "anthropic.svg",
+    "name": "anthropic",
+    "tags": [
+      "anthropic"
+    ]
+  },
+  {
     "path": "app-indicator.svg",
     "name": "app-indicator",
     "tags": [
@@ -525,6 +532,14 @@
     "name": "app",
     "tags": [
       "app"
+    ]
+  },
+  {
+    "path": "apple-music.svg",
+    "name": "apple-music",
+    "tags": [
+      "apple",
+      "music"
     ]
   },
   {
@@ -1847,10 +1862,33 @@
     ]
   },
   {
+    "path": "battery-low.svg",
+    "name": "battery-low",
+    "tags": [
+      "battery",
+      "low"
+    ]
+  },
+  {
     "path": "battery.svg",
     "name": "battery",
     "tags": [
       "battery"
+    ]
+  },
+  {
+    "path": "beaker-fill.svg",
+    "name": "beaker-fill",
+    "tags": [
+      "beaker",
+      "fill"
+    ]
+  },
+  {
+    "path": "beaker.svg",
+    "name": "beaker",
+    "tags": [
+      "beaker"
     ]
   },
   {
@@ -1949,6 +1987,13 @@
     "tags": [
       "blockquote",
       "right"
+    ]
+  },
+  {
+    "path": "bluesky.svg",
+    "name": "bluesky",
+    "tags": [
+      "bluesky"
     ]
   },
   {
@@ -4674,6 +4719,13 @@
     ]
   },
   {
+    "path": "claude.svg",
+    "name": "claude",
+    "tags": [
+      "claude"
+    ]
+  },
+  {
     "path": "clipboard-check-fill.svg",
     "name": "clipboard-check-fill",
     "tags": [
@@ -5610,6 +5662,13 @@
     "name": "crosshair2",
     "tags": [
       "crosshair2"
+    ]
+  },
+  {
+    "path": "css.svg",
+    "name": "css",
+    "tags": [
+      "css"
     ]
   },
   {
@@ -9002,6 +9061,38 @@
     ]
   },
   {
+    "path": "flask-fill.svg",
+    "name": "flask-fill",
+    "tags": [
+      "flask",
+      "fill"
+    ]
+  },
+  {
+    "path": "flask-florence-fill.svg",
+    "name": "flask-florence-fill",
+    "tags": [
+      "flask",
+      "florence",
+      "fill"
+    ]
+  },
+  {
+    "path": "flask-florence.svg",
+    "name": "flask-florence",
+    "tags": [
+      "flask",
+      "florence"
+    ]
+  },
+  {
+    "path": "flask.svg",
+    "name": "flask",
+    "tags": [
+      "flask"
+    ]
+  },
+  {
     "path": "floppy-fill.svg",
     "name": "floppy-fill",
     "tags": [
@@ -9136,6 +9227,14 @@
     "name": "fonts",
     "tags": [
       "fonts"
+    ]
+  },
+  {
+    "path": "fork-knife.svg",
+    "name": "fork-knife",
+    "tags": [
+      "fork",
+      "knife"
     ]
   },
   {
@@ -9374,11 +9473,30 @@
     ]
   },
   {
+    "path": "globe-americas-fill.svg",
+    "name": "globe-americas-fill",
+    "tags": [
+      "globe",
+      "americas",
+      "fill"
+    ]
+  },
+  {
     "path": "globe-americas.svg",
     "name": "globe-americas",
     "tags": [
       "globe",
       "americas"
+    ]
+  },
+  {
+    "path": "globe-asia-australia-fill.svg",
+    "name": "globe-asia-australia-fill",
+    "tags": [
+      "globe",
+      "asia",
+      "australia",
+      "fill"
     ]
   },
   {
@@ -9391,6 +9509,17 @@
     ]
   },
   {
+    "path": "globe-central-south-asia-fill.svg",
+    "name": "globe-central-south-asia-fill",
+    "tags": [
+      "globe",
+      "central",
+      "south",
+      "asia",
+      "fill"
+    ]
+  },
+  {
     "path": "globe-central-south-asia.svg",
     "name": "globe-central-south-asia",
     "tags": [
@@ -9398,6 +9527,16 @@
       "central",
       "south",
       "asia"
+    ]
+  },
+  {
+    "path": "globe-europe-africa-fill.svg",
+    "name": "globe-europe-africa-fill",
+    "tags": [
+      "globe",
+      "europe",
+      "africa",
+      "fill"
     ]
   },
   {
@@ -10415,6 +10554,13 @@
     ]
   },
   {
+    "path": "javascript.svg",
+    "name": "javascript",
+    "tags": [
+      "javascript"
+    ]
+  },
+  {
     "path": "journal-album.svg",
     "name": "journal-album",
     "tags": [
@@ -10786,6 +10932,21 @@
     ]
   },
   {
+    "path": "leaf-fill.svg",
+    "name": "leaf-fill",
+    "tags": [
+      "leaf",
+      "fill"
+    ]
+  },
+  {
+    "path": "leaf.svg",
+    "name": "leaf",
+    "tags": [
+      "leaf"
+    ]
+  },
+  {
     "path": "life-preserver.svg",
     "name": "life-preserver",
     "tags": [
@@ -11105,6 +11266,23 @@
     "name": "mastodon",
     "tags": [
       "mastodon"
+    ]
+  },
+  {
+    "path": "measuring-cup-fill.svg",
+    "name": "measuring-cup-fill",
+    "tags": [
+      "measuring",
+      "cup",
+      "fill"
+    ]
+  },
+  {
+    "path": "measuring-cup.svg",
+    "name": "measuring-cup",
+    "tags": [
+      "measuring",
+      "cup"
     ]
   },
   {
@@ -11571,6 +11749,13 @@
     ]
   },
   {
+    "path": "openai.svg",
+    "name": "openai",
+    "tags": [
+      "openai"
+    ]
+  },
+  {
     "path": "opencollective.svg",
     "name": "opencollective",
     "tags": [
@@ -12011,6 +12196,13 @@
     "name": "percent",
     "tags": [
       "percent"
+    ]
+  },
+  {
+    "path": "perplexity.svg",
+    "name": "perplexity",
+    "tags": [
+      "perplexity"
     ]
   },
   {
@@ -15990,6 +16182,13 @@
     ]
   },
   {
+    "path": "tux.svg",
+    "name": "tux",
+    "tags": [
+      "tux"
+    ]
+  },
+  {
     "path": "tv-fill.svg",
     "name": "tv-fill",
     "tags": [
@@ -16114,6 +16313,13 @@
     ]
   },
   {
+    "path": "typescript.svg",
+    "name": "typescript",
+    "tags": [
+      "typescript"
+    ]
+  },
+  {
     "path": "ubuntu.svg",
     "name": "ubuntu",
     "tags": [
@@ -16220,6 +16426,21 @@
     "name": "unlock",
     "tags": [
       "unlock"
+    ]
+  },
+  {
+    "path": "unlock2-fill.svg",
+    "name": "unlock2-fill",
+    "tags": [
+      "unlock2",
+      "fill"
+    ]
+  },
+  {
+    "path": "unlock2.svg",
+    "name": "unlock2",
+    "tags": [
+      "unlock2"
     ]
   },
   {
